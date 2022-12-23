@@ -3,8 +3,7 @@
 ![image](https://user-images.githubusercontent.com/60587913/209393893-e922e5bb-5193-4af2-a8b4-132081f971d6.png)
 
 
-
-# Introduction 
+## Introduction 
 
 Text summarization can be defined as the process of extracting important sentences a large document and combining them into a short version of the document.
 Text summarization can be split into two types of summaries: extractive and abstractive :
@@ -14,13 +13,13 @@ Text summarization can be split into two types of summaries: extractive and abst
 ![image](https://user-images.githubusercontent.com/60587913/209393690-25261bae-cfdd-4954-87a3-da97b27a366a.png)
 
 Summarizing a text can be both time-efficient and cost-efficient.
-Time-efficient => means the human reader can spend less time reading a document by reading a summarized version
-Cost-efficient => means summarizing can be used for compressing the amount of textual data being transferred from a device to another device.
+* Time-efficient => means the human reader can spend less time reading a document by reading a summarized version
+* Cost-efficient => means summarizing can be used for compressing the amount of textual data being transferred from a device to another device.
 
-# Main Goal
+## Main Goal
 The goal of classification is to classify the dataset before summarizing and test the summarized text on the trained models to see the accuracy increase or dicrease the same aspect for clustering, vlustering before and after and see the number of clusters
 
-# Main topics recovered in methodology
+## Main topics recovered in methodology
 * Dataset
   - Integration 
     * BBC news (business,entertainment,politics,sport,tech)
@@ -41,9 +40,13 @@ The goal of classification is to classify the dataset before summarizing and tes
   
 * Evaluation
 
-# Conclusion
+## Conclusion
 * Proposed a summarization system that use different techniques to summarize news  + medical articles. 
 * Used the summarized articles to do a classification job with different classification algorithms and compared its performance against the original articles. 
 * The results shows high performance from the summarized articles with little difference against the original one, which proves that we can rely on them as a source of information. 
+
+
+## contact 
+![image](https://user-images.githubusercontent.com/60587913/209285099-911ab4b9-604a-45e5-8c96-ce618df56870.png)https://www.linkedin.com/in/%D9%90%D9%90alaa-elkhashap/
 
 
