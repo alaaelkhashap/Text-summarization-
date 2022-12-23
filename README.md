@@ -1,6 +1,6 @@
 # Text-summarization
 
-![image](https://user-images.githubusercontent.com/60587913/209391265-0d607393-e50f-4fdd-821b-9cf961cd77f1.png)
+![image](https://user-images.githubusercontent.com/60587913/209393210-3775dd24-4d49-49c0-a68f-f4233d512f50.png)
 
 
 # Conclusion
