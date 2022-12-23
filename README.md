@@ -19,7 +19,7 @@ Summarizing a text can be both time-efficient and cost-efficient.
 ## Main Goal
 The goal of classification is to classify the dataset before summarizing and test the summarized text on the trained models to see the accuracy increase or dicrease the same aspect for clustering, vlustering before and after and see the number of clusters
 
-## Main topics recovered in methodology
+## Main topics covered in methodology
 * Dataset
   - Integration 
     * BBC news (business,entertainment,politics,sport,tech)
